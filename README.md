@@ -7,6 +7,10 @@ Built with simple HTML5, CSS3 and Vanilla JavaScript.
 
 ## Video
 
+
+https://github.com/user-attachments/assets/73223d7b-e316-438c-9296-2d8cc5119d64
+
+
 ## Features
 
 - Easy to use and clean UI.
