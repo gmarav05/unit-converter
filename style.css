@@ -17,21 +17,20 @@ body{
     border-radius: 10px;
     
 }
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
 
 .input-section {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: start;
-    align-items: center; */
     text-align: center;
-    /* display: block; */
     background-color: #6943FF;
     height: 450px;
     width: 800px;
-    /* margin-bottom: 500px; */
     border-radius: 10px;
-   
-    
 }
 
 .input-section h1 {
